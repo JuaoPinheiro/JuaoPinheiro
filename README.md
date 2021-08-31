@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Juão Pinheiro
 
-<!--
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
 - 📖 Estudando  HTML, CSS, JS... (De tudo um pouco,hehe)
 - 😄 Pronouns: Ele / Dele

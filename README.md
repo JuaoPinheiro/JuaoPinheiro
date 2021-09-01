@@ -1,4 +1,4 @@
-### Olá, Eu sou o Juão Pinheiro
+### Olá, Eu sou o Juão Pinheiro, Seja bem vindo!
 
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
 - 📖 Estudando  HTML, CSS, JS... (De tudo um pouco,hehe)

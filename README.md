@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Juão Pinheiro, Seja bem vindo!
 
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
-- 📖 Estudando  HTML, CSS, JS... (De tudo um pouco,hehe)
+- 📖 Estudando  HTML, CSS, JS... (De tudo um pouco)
 - 📲 Todos meus projetos são feitos pelo celular!
 - 😄 Pronouns: Ele / Dele
 - ➡️ Perfil do Linkedin: https://www.linkedin.com/in/juão-pinheiro-093745218

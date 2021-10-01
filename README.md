@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ele / Dele
 - ➡️ Perfil do Linkedin: https://www.linkedin.com/in/juão-pinheiro-093745218
 - �Nível do Inglês: Intermediário / Avançado
--->
+
 
  <div>
   <a href="https://github.com/JuaoPinheiro">

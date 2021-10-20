@@ -4,7 +4,7 @@
 - 📖 Estudando  HTML, CSS, JS... (De tudo um pouco)
 - 😄 Pronouns: Ele / Dele
 - ➡️ Perfil do Linkedin: https://www.linkedin.com/in/juão-pinheiro-093745218
--  Inglês: Intermediário / Avançado
+-  Inglês: Intermediário
 
 
  <div>

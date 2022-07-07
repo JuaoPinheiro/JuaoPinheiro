@@ -28,9 +28,3 @@
   <a href = "mailto:juaopinheiro26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
        <a href="https://www.linkedin.com/in/juão-pinheiro-de-almeida-093745218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
- <div>
-        
-   ![Snake animation](https://github.com/JuaoPinheiro/JuaoPinheiro/blob/output/github-contribution-grid-snake.svg)
-
- </div>

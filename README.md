@@ -7,6 +7,7 @@
 -  Inglês: Básico / Intermediário
 
 
+
 <div align="start">
   <a href="https://github.com/juaoPinheiro">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JuaoPinheiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>

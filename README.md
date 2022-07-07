@@ -1,7 +1,7 @@
 ### 𝙊𝙡𝙖́, 𝙨𝙤𝙪 𝙤 𝙅𝙪𝙖̃𝙤 𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤, 𝙎𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤!
 
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
-- 📖 Estudando  HTML, CSS, JS.
+- 📖 Estudando sobre:  JavaScript e React
 - 😄 Pronouns: Ele / Dele
 - ➡️ Perfil do Linkedin: https://www.linkedin.com/in/juão-pinheiro-093745218
 -  Inglês: Básico / Intermediário

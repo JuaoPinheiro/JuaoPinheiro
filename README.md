@@ -10,6 +10,9 @@
 <div align="start">
   <a href="https://github.com/juaoPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaoPinheiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  </div>
+  
+<div align="end">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaoPinheiro&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 

@@ -3,7 +3,6 @@
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
 - 📖 Estudando sobre:  JavaScript e React
 - 😄 Pronouns: Ele / Dele
-- ➡️ Perfil do Linkedin: https://www.linkedin.com/in/juão-pinheiro-093745218
 -  Inglês: Básico / Intermediário
 
 

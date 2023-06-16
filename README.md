@@ -1,7 +1,7 @@
 # 𝙊𝙡𝙖́, 𝙨𝙤𝙪 𝙤 𝙅𝙪𝙖̃𝙤 𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤, 𝙎𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤!
 
 - 📍 Atualmente não estou trabalhando, mais estou em busca de uma oportunidade!
-- Curriculo Atualizado:  <a href="https://drive.google.com/file/d/1B21_akbJV4nYMI-zydC4GsyaXJeQqF5Z/view?usp=share_link" target="_blank">Aqui!</a>
+- Curriculo Atualizado:  <a href="https://drive.google.com/file/d/1VQfhkZe2-zYc-OEAJWLP7kYdqD8IYkjC/view?usp=sharing" target="_blank">Aqui!</a>
 
 
 

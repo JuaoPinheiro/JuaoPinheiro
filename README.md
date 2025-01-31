@@ -1,5 +1,5 @@
 # 𝙊𝙡𝙖́, 𝙨𝙤𝙪 𝙤 𝙅𝙪𝙖̃𝙤 𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤, 𝙎𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤!
-- Curriculo Atualizado:  <a href="https://drive.google.com/file/d/1VQfhkZe2-zYc-OEAJWLP7kYdqD8IYkjC/view?usp=sharing" target="_blank">Aqui!</a>
+- Atualmente sou Desenvolvedor na empresa Saltsystems
 
 
 
